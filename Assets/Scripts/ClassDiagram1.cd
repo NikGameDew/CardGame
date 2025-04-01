@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttackedCard">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AttackedCard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AttackedHero">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AttackedHero.HeroType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\AttackedHero.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAYAQAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\AttackedHero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CardAbility">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAEAAAAQAAAgAAAAAAAAAAAAAAAAAAACACA=</HashCode>
+      <FileName>Assets\Scripts\CardAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardController">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEDIAAIAAAAQAhAABAAAAAAAAAAAAAAAABACAEEAACI=</HashCode>
+      <FileName>Assets\Scripts\CardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardInfoScript">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEAUAAAAIAAAAQAAAAAIQAAIAACAEAAIAAAgAQAAQ=</HashCode>
+      <FileName>Assets\Scripts\CardInfoScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Card.AbilityType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\CardManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CQAAAQAAAhoAABAAIAAAAAQAQIAAAAAAAAAAAgAAABA=</HashCode>
+      <FileName>Assets\Scripts\CardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellCard">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SpellCard.SpellType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\CardManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SpellCard.TargetType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\CardManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardManagerStatic">
+    <Position X="13.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardManager">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\CardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEICACAAAQAAAACAgQAgAQAAABAAQAAAAAAAAEE=</HashCode>
+      <FileName>Assets\Scripts\UIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellTarget">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellTarget.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Player">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAEgAAAAAAAAAAAAAQAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicPlayList">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAQAAAAAAAAAAAgAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MusicPlayList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAEAAAAABAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManagerScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManagerScript">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JQAKhAQAACAMAQJICAGCABBgAAAEASgAQgGIAAAAgEA=</HashCode>
+      <FileName>Assets\Scripts\GameManagerScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DropPlayScript">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQAQAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DropPlayScript.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="FieldType">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIABAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\DropPlayScript.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
